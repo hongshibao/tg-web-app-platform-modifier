@@ -11,3 +11,5 @@ Telegram WebApps may also check the User-Agent. If you are using Chrome, you can
 Another way to solve the User-Agent issue is to install Chrome User-Agent related extensions, e.g. [User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg), and then config them to use Android related User-Agent:
 
 <img src="./chrome-user-agent-switcher.png" width="800">
+
+The Javascript code is mainly from [vherasymenk0/telegram_webApp_platform_modifier](https://github.com/vherasymenk0/telegram_webApp_platform_modifier) repo. Thanks for the author.
